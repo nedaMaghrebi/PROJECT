@@ -29,6 +29,19 @@ nav li:last-child {
 nav ul {
     padding-left: 0;    
 }
+/*nav li {
+    font-size: 20px;
+    display:inline-block;
+    margin-right:60.5px;
+    margin-left: 10px;
+    margin-bottom:0px;
+}
+nav li:last-child {
+    margin-right: 0px;
+}
+nav ul {
+    padding-left: 0;    
+}*/
 h1{
     font-size: 20px;
     text-align: justify;
